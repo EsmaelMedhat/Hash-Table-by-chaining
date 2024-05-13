@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715605587 source:e:\cs_50\new folder\hash table\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<utility>
+
